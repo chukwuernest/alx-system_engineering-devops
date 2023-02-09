@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -v
+rm -v /tmp/sym$ ./101-clean_emacs
